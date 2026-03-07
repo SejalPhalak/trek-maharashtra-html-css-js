@@ -192,7 +192,6 @@ function filterTreks() {
 
     updateStats(filtered);
 }
-
 // AUTO LOAD WHEN PAGE OPENS
 document.addEventListener("DOMContentLoaded", function(){
     addDefaultTreks();
