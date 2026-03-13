@@ -27,11 +27,9 @@ Built using <b>HTML, CSS and JavaScript</b>.
 
 | Trek             | Image                                            |
 | ---------------- | ------------------------------------------------ |
-| Rajmachi Fort    | ![Rajmachi](images/rajmachi.jpg)                 |
-| Lohagad Fort     | ![Lohagad](images/lohagad.jpg)                   |
-| Harishchandragad | ![Harishchandragad](images/harishchandragad.jpg) |
-| Kalsubai Peak    | ![Kalsubai](images/kalsubai.jpg)                 |
-| Torna Fort       | ![Torna](images/torna.jpg)                       |
+
+| Harishchandragad | ![Raigad](./images/Rajgad%20Fort.jpeg) |
+            |
 
 ---
 
