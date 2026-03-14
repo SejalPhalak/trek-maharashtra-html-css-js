@@ -3,7 +3,7 @@
 <p align="center">
 ## 📸 Website Preview
 
-<img src="./images/home/" width="900">
+<img src="./images/trek-logo.png" width="50">
 </p>
 
 <p align="center">
