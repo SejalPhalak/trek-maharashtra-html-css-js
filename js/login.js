@@ -28,7 +28,7 @@ function loginUser() {
     let password = document.getElementById("password").value;
 
     if (email === "" || password === "") {
-        alert("Please fill all information");
+        alert("Please fill all information!");
         return;
     }
 
